@@ -1,7 +1,7 @@
 .primary-button
 {
-  background-color: #0D74B2;
-  border: none;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  background-color: #0D74B2 !important;
+  border: none !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
 }
